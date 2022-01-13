@@ -97,7 +97,9 @@ main{
     grid-column-gap: 24px;
 }
 .course{
-
+    padding: 20px;
+    box-shadow: 1px 1px 2px gray;
+    border-radius: 10px;
 }
 .course .course-banner img{
     width: 224px;
@@ -125,6 +127,9 @@ main{
 }
 .fa-star.empty{
     color: #AEAEAE;
+}
+span{
+    margin-left: 10px;
 }
 .course-duration{
     background-color: #FEE5DF;
